@@ -375,16 +375,17 @@ def task_13():
     process_and_save("audio_44k.wav", a, b, "out_audio_44k.wav")
 
 def main():
-    # task_1()
-    # task_2()
-    # task_3()
-    # task_4()
-    # task_5()
-    # task_6()
-    # task_7()
-    # task_8()
-    # task_9()
-    # task_10()
+    task_1()
+    task_2()
+    task_3()
+    task_4()
+    task_5()
+    task_6()
+    task_7()
+    task_8()
+    task_9()
+    task_10()
+    task_11()
     task_13()
 
 
